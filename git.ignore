@@ -1,3 +1,4 @@
-virt_env
-virt_env/*
+
+.virt_env/
+virt_env/
 venv/*
